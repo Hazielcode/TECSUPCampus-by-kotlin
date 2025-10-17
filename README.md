@@ -17,15 +17,6 @@ Cada módulo fue construido aplicando buenas prácticas de **Jetpack Compose**, 
 
 ---
 
-## 🎨 Capturas de pantalla
-
-| Inicio | Cursos | Instructores | Eventos |
-|:------:|:-------:|:-------------:|:---------:|
-| ![Home](https://github.com/Hazielcode/TECSUPCampus-by-kotlin/assets/home_screen.png) | ![Cursos](https://github.com/Hazielcode/TECSUPCampus-by-kotlin/assets/cursos_screen.png) | ![Instructores](https://github.com/Hazielcode/TECSUPCampus-by-kotlin/assets/instructores_screen.png) | ![Eventos](https://github.com/Hazielcode/TECSUPCampus-by-kotlin/assets/eventos_screen.png) |
-
-> *(Agrega tus propias capturas dentro de una carpeta `/assets` en tu repo.)*
-
----
 
 ## ⚙️ Tecnologías utilizadas
 
